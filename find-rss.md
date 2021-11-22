@@ -13,3 +13,4 @@
 5. Then intert the token to bot with command
    - Discord `!upbos add-rss RSS_URL`
    - Telegram `/add-rss RSS_URL`
+6. With video https://www.youtube.com/watch?v=3SHsAnCqoBQ
